@@ -18,8 +18,12 @@ This section emphasizes the importance of practicing ethical hacking:
 - Use your skills responsibly, focusing on improving security and helping others protect their systems.  
 
 Ethical hacking should be performed in controlled environments, such as your own network or an authorized training setting. Stay within the boundaries of the law and contribute positively to the cybersecurity community.
-
+   
 <img src="https://github.com/0V-N/Seasides2025/blob/main/Images/final-warning-warning.gif" alt="welcome" style="width: 150px; float: left; margin-right: 10px;">
 
 ### 1.Wifi Jammer (Deauther) With ESP8266
-“The NodeMCU 8266 WiFi module have gained recognition for their versatile applications in the Internet of Things (IoT) realm​​. However, it is important to address ethical considerations when discussing their potential use in hacking scenarios. In this article, we explore the pinouts and WiFi range of the ESP8266 module while touching upon the controversial topics of using the NodeMCU/ESP8266 as a WiFi jammer or Deauther, 
+The NodeMCU 8266 WiFi module have gained recognition for their versatile applications in the Internet of Things (IoT) realm​​. However, it is important to address ethical considerations when discussing their potential use in hacking scenarios. In this article, we explore the pinouts and WiFi range of the ESP8266 module while touching upon the controversial topics of using the NodeMCU/ESP8266 as a WiFi jammer or Deauther
+
+##### Click Here - > https://wifi-deauther-jammer-nodemcu.netlify.app/
+
+<img src="https://github.com/0V-N/Seasides2025/blob/main/Images/8930234700_1561108959.jpg" alt="welcome" style="width: 300px; float: left; margin-right: 20px;">
