@@ -56,7 +56,14 @@ Pwnagotchi is a portable, AI-powered WiFi auditing tool built on a Raspberry Pi.
 The WiFi Pineapple is a powerful wireless penetration testing tool designed to simulate and execute a wide range of WiFi attacks for security auditing. It supports advanced attack techniques, including rogue access point creation (Evil Twin) to trick users into connecting to fake networks, deauthentication attacks to disconnect devices and capture WPA/WPA2 handshakes, and man-in-the-middle (MITM) attacks to intercept and manipulate network traffic. It also enables packet sniffing to analyze unencrypted data, SSID spoofing to broadcast fake networks, and DNS spoofing to redirect users to malicious websites. Additionally, it performs probe request harvesting to collect information about devices seeking previously connected networks and facilitates WiFi password cracking by capturing handshakes for offline analysis. With these capabilities, the WiFi Pineapple is an essential tool for testing wireless network vulnerabilities and improving security defenses.
 
 ##### Click Here - > https://www.twingate.com/blog/glossary/wifi-pineapple
+
 <img src="https://github.com/0V-N/Seasides2025/blob/main/Images/Wifi%20pineapple.jpg" style="width: 600px; float: left; margin-right: 40px;">
 
 
+### 6.WiFi cracking with Aircrack-ng
 
+WiFi Cracking with Aircrack-ng is a process used to assess the security of WiFi networks by attempting to crack their encryption keys. Aircrack-ng is one of the most popular and powerful tools for WiFi cracking, specifically designed for capturing and analyzing wireless packets and breaking the encryption used on WiFi networks, particularly WEP (Wired Equivalent Privacy) and WPA/WPA2 (WiFi Protected Access) handshakes.
+
+##### Click Here - > https://medium.com/@1200km/wifi-cracking-with-aircrack-ng-d51cf98c789f
+
+<img src="https://github.com/0V-N/Seasides2025/blob/main/Images/wifihack.png" style="width: 400px; float: left; margin-right: 200px;">
