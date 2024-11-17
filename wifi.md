@@ -50,3 +50,13 @@ Pwnagotchi is a portable, AI-powered WiFi auditing tool built on a Raspberry Pi.
 ##### Click Here - > https://github.com/0V-N/Seasides2025/blob/main/Pwnagotchi.md
 
 <img src="https://github.com/0V-N/Seasides2025/blob/main/Images/pwnagotchi.jpg" alt="welcome" style="width: 600px; float: left; margin-right: 40px;">
+
+### 5.wifi pineapple
+
+The WiFi Pineapple is a powerful wireless penetration testing tool designed to simulate and execute a wide range of WiFi attacks for security auditing. It supports advanced attack techniques, including rogue access point creation (Evil Twin) to trick users into connecting to fake networks, deauthentication attacks to disconnect devices and capture WPA/WPA2 handshakes, and man-in-the-middle (MITM) attacks to intercept and manipulate network traffic. It also enables packet sniffing to analyze unencrypted data, SSID spoofing to broadcast fake networks, and DNS spoofing to redirect users to malicious websites. Additionally, it performs probe request harvesting to collect information about devices seeking previously connected networks and facilitates WiFi password cracking by capturing handshakes for offline analysis. With these capabilities, the WiFi Pineapple is an essential tool for testing wireless network vulnerabilities and improving security defenses.
+
+##### Click Here - > https://www.twingate.com/blog/glossary/wifi-pineapple
+<img src="https://github.com/0V-N/Seasides2025/blob/main/Images/Wifi%20pineapple.jpg" style="width: 600px; float: left; margin-right: 40px;">
+
+
+
