@@ -1,12 +1,10 @@
 # <img src="https://github.com/0V-N/Seasides2025/blob/main/Images/80326c84c6e00910f63aa6260372ec25.gif?raw=true" alt="welcome" style="width: 37px; float: left; margin-right: 2px;"> WiFi Village 
-WiFi hacking refers to the exploration of wireless networks to understand their vulnerabilities, enhance security, and test their robustness. Ethical hacking in this domain is vital for protecting sensitive information and ensuring secure communication.  
+
 ## Introduction To WiFi Hacking
+WiFi hacking refers to the exploration of wireless networks to understand their vulnerabilities, enhance security, and test their robustness. Ethical hacking in this domain is vital for protecting sensitive information and ensuring secure communication.
+
 ## Purpose of This Guide
-This guide is an educational resource designed to explore WiFi security and ethical hacking. It provides insights into common vulnerabilities, tools, and techniques used in penetration testing.  
-
-The goal is to help users enhance their knowledge of network protection and develop practical skills for securing wireless systems.  
-
-Focusing on responsible practices, this guide emphasizes the importance of legality and ethics in cybersecurity. It encourages learning in controlled environments with proper authorization.  
+This guide is an educational resource designed to explore WiFi security and ethical hacking. It provides insights into common vulnerabilities, tools, and techniques used in penetration testing.The goal is to help users enhance their knowledge of network protection and develop practical skills for securing wireless systems.Focusing on responsible practices, this guide emphasizes the importance of legality and ethics in cybersecurity. It encourages learning in controlled environments with proper authorization.  
 
 ## Ethics and Legal Considerations
 
