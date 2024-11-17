@@ -42,3 +42,11 @@ The Deauther Mini is a powerful WiFi deauthentication device powered by the ESP-
 ##### Click Here - > https://github.com/0V-N/Seasides2025/blob/main/Deauther%20Mini.md
 
 <img src="https://github.com/0V-N/Seasides2025/blob/main/Images/Dmini1.jpg" alt="welcome" style="width: 300px; float: left; margin-right: 20px;">
+
+### 4.Pwnagotchi
+
+Pwnagotchi is a portable, AI-powered WiFi auditing tool built on a Raspberry Pi. Designed for security enthusiasts, it passively captures WPA/WPA2 handshakes to help evaluate WiFi network vulnerabilities. Pwnagotchi uses artificial intelligence to learn and improve its efficiency over time, displaying its status and progress on an e-ink or OLED screen. Compact, customizable, and engaging with its unique personality system, Pwnagotchi is a powerful companion for penetration testing and WiFi security assessments.
+
+##### Click Here - > https://github.com/0V-N/Seasides2025/blob/main/Pwnagotchi.md
+
+<img src="https://github.com/0V-N/Seasides2025/blob/main/Images/pwnagotchi.jpg" alt="welcome" style="width: 600px; float: left; margin-right: 40px;">
