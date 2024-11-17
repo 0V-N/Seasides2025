@@ -47,5 +47,7 @@ All GPIO breakouts and 3.3 and 5V output
 
 2 LEDs to indicate battery charging status (Red:Charging,Blue:Full)
 
-<img src="https://github.com/0V-N/Seasides2025/blob/main/Images/Deauther%20Mini%20Battery.jpg" alt="welcome" style="width: 300px; float: left; margin-right: 20px;">
+<img src="https://github.com/0V-N/Seasides2025/blob/main/Images/Deauther%20Mini%20Battery.jpg" alt="inside" style="width: 300px; float: left; margin-right: 20px;">
+
+<img src="https://github.com/0V-N/Seasides2025/blob/main/Images/Dmini%20vnx.jpg" alt="vnx" style="width: 300px; float: left; margin-right: 20px;">
 
