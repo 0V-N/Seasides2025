@@ -13,7 +13,9 @@ Deauther Probe：Confuse wifi trackers
 
 Packet Monitor：Display wifi traffic
 
-[Watch the video](https://github.com/0V-N/Seasides2025/blob/main/Images/D%20Mini.mp4)
+Check out this video:  
+[Watch the video](https://youtube.com/shorts/lIjerQwPFrY)  
+
 ## GPIOs and hardware info:
 Display: SH1106 1.3" OLED
 
