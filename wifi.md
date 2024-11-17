@@ -28,9 +28,17 @@ The NodeMCU 8266 WiFi module have gained recognition for their versatile applica
 
 <img src="https://github.com/0V-N/Seasides2025/blob/main/Images/8930234700_1561108959.jpg" alt="welcome" style="width: 300px; float: left; margin-right: 20px;">
 
-### 2.Wifi Spoofing
+### 2.Wifi Spoofing Device
 Creating a WiFi spoofing device with an ESP32 involves programming the microcontroller to emulate a legitimate access point, enticing unsuspecting devices to connect to a fake network. Additionally, the ESP32 can be programmed to create a fake API, replicating the behavior of legitimate network services. Once connected, the ESP32 can intercept and manipulate network traffic, potentially compromising sensitive information. However, it's essential to note the ethical and legal implications of such actions. Unauthorized use of WiFi spoofing devices for malicious purposes is illegal and punishable by law. Any use of these devices should be limited to educational or research purposes with explicit consent from network owners and in compliance with applicable laws and regulations. Always prioritize ethical considerations and respect the privacy and security of others' networks. 
 
 ##### Click Here - > https://wifi-spoofing-esp32.netlify.app/
 
 <img src="https://github.com/0V-N/Seasides2025/blob/main/Images/wifi%20spoof.jpg" alt="welcome" style="width: 300px; float: left; margin-right: 20px;">
+
+### 3.Deauther Mini
+
+The Deauther Mini is a powerful WiFi deauthentication device powered by the ESP-07 ESP8266 module. It features long battery life, an external 5dB antenna, and supports WiFi spoofing and packet monitoring.
+
+##### Click Here - > https://github.com/0V-N/Seasides2025/blob/main/Deauther%20Mini.md
+
+<img src="https://github.com/0V-N/Seasides2025/blob/main/Images/Dmini1.jpg" alt="welcome" style="width: 300px; float: left; margin-right: 20px;">
